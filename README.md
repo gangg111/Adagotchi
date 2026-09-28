@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <img src=".github/adagotchi.gif" alt="Adagotchi w działaniu: menu, karmienie i reakcja stworka" width="320">
+  <a href="https://www.youtube.com/shorts/VQqv3flwYj8">
+    <img src=".github/adagotchi.gif" alt="Adagotchi w działaniu: menu, karmienie i reakcja stworka" width="320">
+  </a>
   <br>
-  <a href="https://github.com/gangg111/Adagotchi/raw/main/.github/adagotchi.mp4">Pobierz pełne nagranie (36 s, z dźwiękiem)</a>
+  <a href="https://www.youtube.com/shorts/VQqv3flwYj8">Obejrzyj nagranie na YouTube (36 s, z dźwiękiem)</a>
 </p>
 
 ### Co to jest
