@@ -2,6 +2,10 @@
   <img src=".github/adagotchi.png" alt="Adagotchi" width="520">
 </p>
 
+<p align="center">
+  <img src=".github/adagotchi.gif" alt="Adagotchi w działaniu: menu, karmienie i reakcja stworka" width="320">
+</p>
+
 ### Co to jest
 
 Adagotchi to elektroniczna zabawka w stylu tamagotchi, zbudowana od zera: układ na ESP32-S3,
