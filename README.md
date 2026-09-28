@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src=".github/adagotchi.gif" alt="Adagotchi w działaniu: menu, karmienie i reakcja stworka" width="320">
+  <a href=".github/adagotchi.mp4">
+    <img src=".github/adagotchi.gif" alt="Adagotchi w działaniu: menu, karmienie i reakcja stworka" width="320">
+  </a>
+  <br>
+  <a href=".github/adagotchi.mp4">Obejrzyj całe nagranie z dźwiękiem</a>
 </p>
 
 ### Co to jest
